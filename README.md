@@ -1,14 +1,10 @@
 ### Hi there 👋
 
-<!--
-**rgr3287/rgr3287** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- <h2>My Tech Stack</h2> -->
+<img src="https://https://img.shields.io/badge/html5-HTML5-red"/>
 
-
-<h2>My Tech Stack</h2>
-<img src="https://img.shields.io/badge/HTML5-#FA5858?style=flat-square&logo=#E34F26&logoColor=white"/>
-![HTLM5]()
+<!-- ![HTLM5]()
 ![Golang](https://img.shields.io/badge/-Golang-)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C&color=%23FFCE5A)
@@ -24,3 +20,4 @@ Here are some ideas to get you started:
 ![MariaDB](https://img.shields.io/badge/-MariaDB-)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-)
 ![Oracle](https://img.shields.io/badge/-Oracle-)
+ -->
