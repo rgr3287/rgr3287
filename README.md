@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 
 
 <h2>My Tech Stack</h2>
+<img alt="Python" src ="https://img.shields.io/badge/HTML5-#FA5858.svg?&style=for-the-badge&logo=로고명&logoColor=#FFFFFF"/>
 ![HTLM5](https://img.shields.io/badge/HYML5-F05032?style=for-the-badge&loge=html5&logoColor=ffffff)
 ![Golang](https://img.shields.io/badge/-Golang-)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
