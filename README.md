@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 
 <h2>My Tech Stack</h2>
-![HTLM5](https://img.shields.io/badge/-HYML5-F05032?style=for-the-badge&loge=html5&logoColor=ffffff)
+![HTLM5](https://img.shields.io/badge/HYML5-F05032?style=for-the-badge&loge=html5&logoColor=ffffff)
 ![Golang](https://img.shields.io/badge/-Golang-)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C&color=%23FFCE5A)
