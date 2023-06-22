@@ -12,4 +12,6 @@
 <h2>Most Used languages</h2>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgr3287&layout=compact"><br><br>
-<!--<img src="https://github-readme-stats.vercel.app/api?username=rgr3287&show_icons=true">-->
+
+<h2>Git Stats</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=rgr3287&show_icons=true">
