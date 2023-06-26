@@ -4,7 +4,7 @@ URL = "http://rgr3287.tistory.com/rss"
 RSS_FEED = feedparser.parse(URL)
 MAX_POST = 5
 
-
+markdown_text = """
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300%&section=header&text=hyeonGuen%20Gwak&fontSize=80&animation=twinkling)
 
 ------
@@ -24,7 +24,7 @@ MAX_POST = 5
 <img src="https://github-readme-stats.vercel.app/api?username=rgr3287&show_icons=true">
 
 -----
-markdown_text = """
+
 ## ✅ Latest Blog Post
 
 """  # list of blog posts will be appended here
