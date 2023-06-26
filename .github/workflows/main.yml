@@ -14,14 +14,6 @@ on:
 jobs:
   build:
 
-    runs-on: ubuntu-latest
-    name: Example
-    on: workflow_dispatch
-    permissions:
-      contents: write
-    jobs:
-    # web Engineer
-
     steps:
     - uses: actions/checkout@v3
     - name: Set up Python 3.10
