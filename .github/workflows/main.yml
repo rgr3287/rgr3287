@@ -35,6 +35,6 @@ jobs:
         git add .
         git diff
         git config --local user.email "rgr3287@naver.com"
-        git config --local user.name "rgr3287"
+        git config --local user.name "곽현근"
         git commit -m "Updating Blog Posts"
         git push
