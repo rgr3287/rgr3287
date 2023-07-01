@@ -7,6 +7,8 @@ MAX_POST = 5
 markdown_text = """
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300%&section=header&text=hyeonGuen%20Gwak&fontSize=80&animation=twinkling)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frgr3287%2Fhit-counter&count_bg=%233D71C8&title_bg=%23555555&icon=sourcegraph.svg&icon_color=%23E7E7E7&title=count&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <h2>My Tech Stack</h2>
 
 <img src="https://img.shields.io/badge/html5-F05138?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/git-151515?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Golang-0040FF?style=flat-square&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-5882FA?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/AngularJS-FF0000?style=flat-square&logo=AngularJS&logoColor=white"/> <img src="https://img.shields.io/badge/Npm-F78181?style=flat-square&logo=npm&logoColor=white"/>
@@ -19,8 +21,6 @@ markdown_text = """
 
 <h2>Git Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=rgr3287&show_icons=true">
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frgr3287%2Fhit-counter&count_bg=%233D71C8&title_bg=%23555555&icon=sourcegraph.svg&icon_color=%23E7E7E7&title=count&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## ✅ Latest Blog Post
 
