@@ -19,7 +19,7 @@ markdown_text = """
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgr3287&layout=compact"><br><br>
 
-<h2>🌵Git Stats And BaekJoon Stats</h2>
+<h2>🌵Git And BaekJoon Stats</h2>
 
 ![HyeonGeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=rgr3287&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rgr3287)](https://solved.ac/rgr3287/)
