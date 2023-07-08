@@ -11,7 +11,7 @@
 
 <h2>😀Most Used languages</h2>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgr3287&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgr3287&layout=compact"><br><br><br>
 
 <h2>🌵Git And BaekJoon Stats</h2>
 
