@@ -18,8 +18,6 @@
 ![HyeonGeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=rgr3287&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rgr3287)](https://solved.ac/rgr3287/)
 
--------
-
 ## 👓Latest Blog Post
 
 [2023/06/28 - Gorm Preload가 1000건이 넘어가는 경우(Gorm/MySQL)](https://rgr3287.tistory.com/5) <br/>
