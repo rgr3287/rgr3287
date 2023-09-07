@@ -20,6 +20,7 @@
 
 ## 👓Latest Blog Post
 
+[2023/09/06 - gorm 다중 select와 단일 select의 차이점](https://rgr3287.tistory.com/6) <br/>
 [2023/06/28 - Gorm Preload가 1000건이 넘어가는 경우(Gorm/MySQL)](https://rgr3287.tistory.com/5) <br/>
 [2023/06/23 - golang을 이용한 스키마 안에 테이블 컬럼 문자열 update [mySQL/mariaDB]](https://rgr3287.tistory.com/4) <br/>
 [2023/06/22 - RouterLink 와 href 차이 [Angular]](https://rgr3287.tistory.com/3) <br/>
